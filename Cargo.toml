@@ -1,5 +1,6 @@
 [package]
 name = "minibar"
+description = "A mini progress bar crate for Rust"
 version = "0.1.0"
 authors = ["Anders Olsson <anders.e.olsson@gmail.com>"]
 license = "MIT"
