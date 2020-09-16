@@ -1,0 +1,9 @@
+[package]
+name = "minibar"
+version = "0.1.0"
+authors = ["Anders Olsson <anders.e.olsson@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+bytesize = "1.0"
+termion = "1.5"
